@@ -1,13 +1,13 @@
 Hi 👋 My name is Fahibram Cárcamo
 =================================
 
-Full stack web developer... [#Laravel](https://laravel.com/) and [#Vuejs](https://vuejs.org/)
+Full stack web developer... [Laravel](https://laravel.com/) and [Vuejs](https://vuejs.org/)
 ------------------------
 
 * 🌍  I'm based in Bogotá D.C. - Colombia
 * ✉️  You can contact me at [fahico98@gmail.com](mailto:fahico98@gmail.com)
 * 🚀  I'm currently working on [Estratek](http://estratek.com.co/)
-* 🧠  I'm learning Docker
+* 🧠  I'm learning [Docker](https://www.docker.com/)
 
 ### Skills
 
