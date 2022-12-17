@@ -1,7 +1,7 @@
 Hi 👋 My name is Fahibram Cárcamo
 =================================
 
-Full stack web developer [Laravel](https://laravel.com/) [Vuejs](https://vuejs.org/)
+Full stack web developer... [#Laravel](https://laravel.com/) and [#Vuejs](https://vuejs.org/)
 ------------------------
 
 * 🌍  I'm based in Bogotá D.C. - Colombia
