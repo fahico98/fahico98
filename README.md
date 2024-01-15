@@ -6,8 +6,6 @@ Full stack web developer... [Laravel](https://laravel.com/) and [Vuejs](https://
 
 * 🌎  I'm based in Bogotá D.C. - Colombia
 * ✉️  You can contact me at [fahico98@gmail.com](mailto:fahico98@gmail.com)
-* 🚀  I'm currently working on [Estratek](http://estratek.com.co/)
-* 🧠  I'm learning [GraphQL](https://graphql.org/)
 
 ### Skills
 
