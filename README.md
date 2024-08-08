@@ -1,7 +1,7 @@
 Hi, I'm Fahibram 👨‍💻
 =================================
 
-Full stack web developer... [Laravel](https://laravel.com/) and [Vuejs](https://vuejs.org/)
+Full stack web developer
 ------------------------
 
 * 🌎  I'm based in Bogotá D.C. - Colombia
